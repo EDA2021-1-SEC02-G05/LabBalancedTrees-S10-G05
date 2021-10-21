@@ -1,4 +1,4 @@
-Maria Alejandra Moreno - 
+Maria Alejandra Moreno - m.morenob@uniandes.edu.co - 202021603
 Juliana Delgadillo Cheyne - j.delgadillo@uniandes.edu.co - 202020986
 #ISIS1225 - Librerias de soporte
 
