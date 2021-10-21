@@ -65,6 +65,7 @@ def newAnalyzer():
 # Funciones para agregar informacion al catalogo
 
 
+
 def addCrime(analyzer, crime):
     """
     """
